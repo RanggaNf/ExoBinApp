@@ -1,7 +1,6 @@
 # ExoBin: Sistem Pengelolaan Sampah Cerdas Berbasis IoT
 
-![ExoBin Logo](![1](https://github.com/user-attachments/assets/73e3db70-6055-46c9-a328-74b8e380a016)
-)
+![ExoBin Logo](https://github.com/user-attachments/assets/73e3db70-6055-46c9-a328-74b8e380a016)
 
 ExoBin adalah sistem pengelolaan sampah cerdas berbasis Internet of Things (IoT) yang dirancang untuk meningkatkan efisiensi dan efektivitas pengelolaan sampah di lingkungan kampus atau perkotaan.
 
@@ -25,12 +24,11 @@ ExoBin adalah sistem pengelolaan sampah cerdas berbasis Internet of Things (IoT)
 
 ## Screenshot
 
-![Start Screen](![1](https://github.com/user-attachments/assets/e9b48621-cb28-4596-b049-c11bd920db2b)
-)
-![Login Screen](![2](https://github.com/user-attachments/assets/9d90e457-f030-4517-9dcd-9958c6221787)
-)
-![Home ExoBin](![3](https://github.com/user-attachments/assets/c3548a4c-c69c-42ce-813c-9815296e8888)
-)
+![Start Screen](https://github.com/user-attachments/assets/e9b48621-cb28-4596-b049-c11bd920db2b)
+
+![Login Screen](https://github.com/user-attachments/assets/9d90e457-f030-4517-9dcd-9958c6221787)
+
+![Home ExoBin](https://github.com/user-attachments/assets/c3548a4c-c69c-42ce-813c-9815296e8888)
 
 ## Instalasi
 
@@ -68,7 +66,7 @@ Linkedin - [@rangfaziii](https://www.linkedin.com/in/rangfaziii/)
 
 Website: [www.rangfaziii.com](http://www.rangfaziii.com)
 
-Project Link: [https://github.com/RanggaNf/exobin](https://github.com/RanggaNf/ExoBinApp)
+Project Link: [https://github.com/RanggaNf/ExoBinApp](https://github.com/RanggaNf/ExoBinApp)
 
 ## Acknowledgments
 
